@@ -3,4 +3,4 @@
 <br>
 <img src="https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" height=40 width=40 alt="XD"/>
 <br>
-<img src="https://w7.pngwing.com/pngs/852/183/png-transparent-codepen-computer-icons-logo-front-end-web-development-blog-logo-art-source-code-thumbnail.png" height=30 width=40 alt="Pen"/>
+<img src="https://p7.hiclipart.com/preview/852/183/587/codepen-computer-icons-logo-front-end-web-development-blog.jpg" height=40 width=40 alt="Pen"/>
