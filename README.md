@@ -5,4 +5,4 @@
 <br>
 <img src="https://www.shareicon.net/data/512x512/2015/09/04/95575_codepen_512x512.png" height=50 width=40 alt="Pen"/>
 <br>
-<img src = "https://logowik.com/content/uploads/images/javascript.jpg" height=40 width=40 alt="JS"/>
+<img src = "https://banner2.cleanpng.com/20180605/yjb/kisspng-javascript-programmer-node-js-web-application-vector-markup-language-5b173fc1d0a463.9294246915282503058546.jpg" height=40 width=40 alt="JS"/>
