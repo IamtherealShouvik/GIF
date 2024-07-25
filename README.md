@@ -3,6 +3,10 @@
 <br>
 <img src="https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" height=40 width=40 alt="XD"/>
 <br>
-<img src="https://www.shareicon.net/data/512x512/2015/09/04/95575_codepen_512x512.png" height=50 width=40 alt="Pen"/>
+<img src="https://www.shareicon.net/data/512x512/2015/09/04/95575_codepen_512x512.png" height=50 width=48 alt="Pen"/>
 <br>
-<img src = "https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" height=40 width=40 alt="JS"/>
+<img src = "https://logospng.org/download/javascript/logo-javascript-icon-1024.png" height=40 width=48 alt="JS"/>
+<br>
+<img src = "https://logospng.org/download/css-3/logo-css-3-2048.png" height=40 width=44 alt="CSS"/>
+<br>
+<img src = "https://logospng.org/download/html-5/logo-html-5-2048.png" height=40 width=44 alt="HTML"/>
