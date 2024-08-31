@@ -3,6 +3,8 @@
 <br>
 <img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" height=50 width=80 alt="XD"/>
 <br>
+<img src="https://png.pngtree.com/templates/sm/20180519/sm_5b0022bcebeaa.jpg" height=40 width=80 alt="XD-alt"/>
+<br>
 <img src="https://www.shareicon.net/data/512x512/2015/09/04/95575_codepen_512x512.png" height=50 width=50 alt="Pen"/>
 <br>
 <img src = "https://logospng.org/download/javascript/logo-javascript-icon-1024.png" height=40 width=48 alt="JS"/>
