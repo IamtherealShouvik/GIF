@@ -10,3 +10,5 @@
 <img src = "https://logospng.org/download/css-3/logo-css-3-2048.png" height=40 width=44 alt="CSS"/>
 <br>
 <img src = "https://logospng.org/download/html-5/logo-html-5-2048.png" height=40 width=44 alt="HTML"/>
+<br>
+<img src = "https://cdnlogo.com/logos/m/30/mongodb-icon.svg" height=40 width=40 alt="MongoDB"/>
