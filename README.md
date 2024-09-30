@@ -3,7 +3,7 @@
 <br>
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/adobe-xd-logo-vector.svg" height=40 width=40 alt="XD"/>
 <br>
-<img src="https://www.shareicon.net/data/512x512/2015/09/04/95575_codepen_512x512.png" height=50 width=50 alt="Pen"/>
+<img src="https://www.shareicon.net/data/512x512/2015/09/04/95575_codepen_512x512.png" height=49 width=50 alt="Pen"/>
 <br>
 <img src = "https://logospng.org/download/javascript/logo-javascript-icon-1024.png" height=40 width=48 alt="JS"/>
 <br>
@@ -12,3 +12,7 @@
 <img src = "https://logospng.org/download/html-5/logo-html-5-2048.png" height=40 width=44 alt="HTML"/>
 <br>
 <img src = "https://cdnlogo.com/logos/m/30/mongodb-icon.svg" height=40 width=40 alt="MongoDB"/>
+<br>
+<img src = "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height=40 width=40 alt="React"/>
+<br>
+<img src = "" alt=""/>
