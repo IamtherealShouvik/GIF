@@ -15,4 +15,6 @@
 <br>
 <img src = "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height=40 width=40 alt="React"/>
 <br>
+<img src = "https://brandeps.com/logo/F/Firebase-02 height=40 width=40" alt="Firebase"/>
+<br>
 <img src = "" alt=""/>
